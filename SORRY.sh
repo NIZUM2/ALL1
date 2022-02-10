@@ -2990,7 +2990,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 312) git clone https://github.com/NIZUM2/just-now
 echo -e "${y} Installer just-now ..."
 echo -e "${y} cd just-now "
-echo -e "${y} python2 just-niw.py"
+echo -e "${y} python2 just-niw.py.."
 
 ;;
 
