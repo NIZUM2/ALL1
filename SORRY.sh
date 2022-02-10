@@ -2988,9 +2988,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Pakistan-open
 
 312) git clone https://github.com/NIZUM2/just-now
-echo -e "${y} Installer just-now ..."
-echo -e "${y} cd just-now "
-echo -e "${y} python2 just-niw.py.."
+echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
