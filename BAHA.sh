@@ -2985,9 +2985,9 @@ echo -e "${y} SUDAH TERINSTALL.."
 311) git clone https://github.com/br0keh/cc-checker
 echo -e "${y} SUDAH TERINSTALL.."
 
-#Install JUST NOW
+#Install just-now
 
-312) git clone https://github.com/NIZUM2/Pakistan-open
+312) git clone https://github.com/NIZUM2/just-now
 echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
