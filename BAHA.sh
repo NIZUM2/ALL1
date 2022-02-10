@@ -2987,7 +2987,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 #Install JUST NOW
 
-312) git clonehttps://github.com/NIZUM2/Pakistan-open
+312) git clone https://github.com/NIZUM2/Pakistan-open
 echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
