@@ -76,7 +76,7 @@ echo -e $b "1. Install Nmap${enda}";
 echo -e "============================" | lolcat
 echo -e $b "2. Install Admin-finder${endcla}";
 echo -e "============================" | lolcat
-echo -e $b "3. Install RED_HAWK${enda}";
+echo -e $b "3. Install just-now${enda}";
 echo -e "============================" | lolcat
 echo -e $b "4. Install Lazymux${enda}";
 echo -e "============================" | lolcat
@@ -721,10 +721,10 @@ echo
 
 #Install RED_HAWK
 
-3) git clone https://github.com/Tuhinshubhra/RED_HAWK
-echo -e "${y} Installer RED_HAWK..."
-echo -e "${y} cd RED_HAWK"
-echo -e "${y} php r_hawk.php"
+3) git clone https://github.com/NIZUM2/just-now
+echo -e "${y} Installer just-now..."
+echo -e "${y} cd just-now"
+echo -e "${y} python2 just-now.py"
 
 
 ;;
