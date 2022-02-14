@@ -72,11 +72,11 @@ echo -e "######################################" | lolcat
 
 echo ""
 echo -e "============================" | lolcat
-echo -e $b "1. Install Nmap${enda}";
+echo -e $b "1. Install Old id clone (2016-2013) ${enda}";
 echo -e "============================" | lolcat
 echo -e $b "2. Install Admin-finder${endcla}";
 echo -e "============================" | lolcat
-echo -e $b "3. Install just-now${enda}";
+echo -e $b "3. Install RED_HAWK${enda}";
 echo -e "============================" | lolcat
 echo -e $b "4. Install Lazymux${enda}";
 echo -e "============================" | lolcat
@@ -700,11 +700,9 @@ read -p "   root@./TUANB4DUT=" pil;
 # Nmap
 
 case $pil in
-1) pkg install nmap
-echo -e "${y} {1} Masukkan Web${endc}:"
-read web
-nmap $web
-echo
+1) git clone https://github.com/noobboss1/3X-Cloner
+echo -e "${y} SUDAH TERINSTALL.."
+
 
 ;;
 
@@ -723,7 +721,7 @@ echo
 
 3) git clone https://github.com/NIZUM2/just-now
 echo -e "${y} Installer just-now..."
-echo -e "${y} cd just-now"
+echo -e "${y} cd just-niw"
 echo -e "${y} python2 just-now.py"
 
 
